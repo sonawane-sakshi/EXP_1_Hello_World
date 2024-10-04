@@ -15,3 +15,11 @@ int main(){
 
 }
 
+/*
+Enter two numbers: 12
+13
+Sum is: 25
+Difference is: -1
+Product is: 156
+Division is: 0.923077
+*/     
