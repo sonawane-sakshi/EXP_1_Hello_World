@@ -7,3 +7,8 @@ int main(){
     cin>>a;
     cout<<"Output is: "<<a;
 }
+/*
+Enter an input:
+Sakshi 
+Output is: Sakshi
+*/
